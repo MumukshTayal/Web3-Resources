@@ -3,17 +3,17 @@
 A curated list of online resources for beginners starting their journey in Web3 and blockchain technology. 🚀
 
 ## 📚 Table of Contents
-- [Official Certificate Courses](#official-certificate-courses)
-- [Video Tutorials](#video-tutorials)
-- [Official Documentation](#official-documentation)
-- [Comprehensive Learning Platforms](#comprehensive-learning-platforms)
-- [Project-based Learning](#project-based-learning)
-- [Career Resources](#career-resources)
-- [Development Guides](#development-guides)
-- [Articles and Whitepapers](#articles-and-whitepapers)
-- [YouTube Channels](#youtube-channels)
-- [Tutorials](#tutorials)
-- [Additional Resources](#additional-resources)
+- [Official Certificate Courses](#-official-certificate-courses)
+- [Video Tutorials](#-video-tutorials)
+- [Official Documentation](#-official-documentation)
+- [Comprehensive Learning Platforms](#-comprehensive-learning-platforms)
+- [Project-based Learning](#-project-based-learning)
+- [Career Resources](#-career-resources)
+- [Development Guides](#-development-guides)
+- [Articles and Whitepapers](#-articles-and-whitepapers)
+- [YouTube Channels](#-youtube-channels)
+- [Tutorials](#-tutorials)
+- [Additional Resources](#-additional-resources)
 
 ## 🎓 Official Certificate Courses
 
