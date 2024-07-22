@@ -7,7 +7,7 @@ A curated list of online resources for beginners starting their journey in Web3 
 - [Video Tutorials](#-video-tutorials)
 - [Official Documentation](#-official-documentation)
 - [Comprehensive Learning Platforms](#-comprehensive-learning-platforms)
-- [Project-based Learning](#-project-based-learning)
+- [Project-based Learning](#%EF%B8%8F-project-based-learning)
 - [Career Resources](#-career-resources)
 - [Development Guides](#-development-guides)
 - [Articles and Whitepapers](#-articles-and-whitepapers)
